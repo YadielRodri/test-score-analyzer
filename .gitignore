@@ -1,0 +1,12 @@
+# Compiled programs
+*.exe
+*.o
+*.obj
+*.out
+grades
+
+# Local editor and build files
+.vscode/
+
+# Generated report
+score_report.txt

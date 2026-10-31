@@ -1,0 +1,11 @@
+# Sample test scores (example data)
+50
+30
+30
+30
+0
+125
+absent
+
+100
+100
